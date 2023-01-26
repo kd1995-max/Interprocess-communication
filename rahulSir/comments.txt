@@ -1,0 +1,7 @@
+1) Use a descriptive name for a function.
+
+2) Add a small description just before a function.
+
+3) use small case while naming a directory.
+
+4) optimization tip: calculate the md5sum of backup only when it is updated

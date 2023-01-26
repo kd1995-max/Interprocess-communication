@@ -1,0 +1,25 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_PROGRAM_AUTHOR	Darren Hiebert	/dhiebert@users.sourceforge.net/
+!_TAG_PROGRAM_NAME	Exuberant Ctags	//
+!_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
+!_TAG_PROGRAM_VERSION	5.9~svn20110310	//
+A	files/functions/A.c	/^void A(){$/;"	f
+B	files/functions/B.c	/^void B(){$/;"	f
+SSID	files/headers/var.h	/^    char *SSID;$/;"	m	struct:backup_data
+SSID	files/headers/var.h	/^    char *SSID;$/;"	m	struct:orignal_data
+after_every_5_second	files/functions/functions.c	/^void after_every_5_second()$/;"	f
+backup_data	files/headers/var.h	/^struct backup_data{$/;"	s
+calculate_file_md5	files/functions/functions.c	/^char * calculate_file_md5(const char *filename) $/;"	f
+channel	files/headers/var.h	/^    char *channel;$/;"	m	struct:backup_data
+channel	files/headers/var.h	/^    char *channel;$/;"	m	struct:orignal_data
+create_backup	files/functions/functions.c	/^void create_backup()$/;"	f
+create_structure_array	files/functions/create_structure_array_JSON.c	/^void create_structure_array()$/;"	f
+find_the_fields	files/functions/find_the_fields.c	/^void find_the_fields(size_t n_access_backup_points,size_t n_access_orignal_points,struct backup_data *bd, struct orignal_data *od)$/;"	f
+is_MD5_digest_same	files/functions/functions.c	/^int is_MD5_digest_same() {$/;"	f
+main	files/Main/server.c	/^int main()$/;"	f
+main	files/functions/B.c	/^int main()$/;"	f
+orignal_data	files/headers/var.h	/^struct orignal_data{$/;"	s
+read_the_changes	files/functions/read_the_changes.c	/^void read_the_changes(char **buff)$/;"	f
+snr	files/headers/var.h	/^    char *snr;$/;"	m	struct:backup_data
+snr	files/headers/var.h	/^    char *snr;$/;"	m	struct:orignal_data

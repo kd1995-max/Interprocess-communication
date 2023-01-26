@@ -1,0 +1,1 @@
+gcc files/functions/A.c files/functions/functions.c files/Main/server.c files/functions/create_structure_array_JSON.c files/functions/find_the_fields.c files/functions/read_the_changes.c -w -lcrypto -ljson-c -o files/bin/A & ./files/bin/A
