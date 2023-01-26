@@ -12,3 +12,6 @@ Your task is to create two applications communicating with each other (interproc
   <li>SSID is added to the list with SNR <SNR> and channel <CHANNEL> <br /> </li>
   <li>SSID is removed from the list. </li>
 </ul>
+
+![acces_points.png](https://github.com/kd1995-max/Interprocess-communication/blob/main/screenshots/acces_points.png)
+![output.png](https://github.com/kd1995-max/Interprocess-communication/blob/main/screenshots/output.png)
